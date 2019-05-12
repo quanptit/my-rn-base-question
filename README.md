@@ -7,7 +7,7 @@ VQuestion tương ứng sẽ chỉ thay đổi khi uniqueId này thay đổi.
 
 ##### Thêm Vào package.json
 ```
-"my-rn-base-question": "git+https://gitlab.com/react-native-my-libs/my-rn-base-component.git",
+"my-rn-base-question": "git+https://quanptit@bitbucket.org/reactnativelibs/my-rn-base-question.git",
 ```
 
 Chạy  lệnh sau
