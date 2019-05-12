@@ -1,4 +1,4 @@
-export default class BaseQuestion {
+export class BaseQuestion {
     constructor(obj) {
         this.initData(obj);
         if (obj != null)

@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import BaseQuestion from "./BaseQuestion";
+import { BaseQuestion } from "./BaseQuestion";
 export declare abstract class VBaseQuestion<P = {}, S = {}> extends Component<P, S> {
     questionUniqueId: number;
     shouldComponentUpdate(nextProps: any, nextState: any): boolean;

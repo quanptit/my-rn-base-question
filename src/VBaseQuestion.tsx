@@ -1,5 +1,5 @@
 import React, {Component, PureComponent} from 'react'
-import BaseQuestion from "./BaseQuestion";
+import {BaseQuestion} from "./BaseQuestion";
 
 // Bat buoc co props: question
 export abstract class VBaseQuestion<P = {}, S = {}> extends Component<P, S> {

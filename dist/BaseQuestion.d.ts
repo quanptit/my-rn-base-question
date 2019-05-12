@@ -1,4 +1,4 @@
-export default abstract class BaseQuestion {
+export declare abstract class BaseQuestion {
     noCorrect: number;
     noTotal: number;
     isUserAnswerCorrect: boolean;
