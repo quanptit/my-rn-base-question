@@ -1,4 +1,4 @@
-Mỗi question Obj sẽ có một uniqueId. uniqueId được tính tự động từ cái field của obj        
+Mỗi question Obj sẽ có một uniqueId. uniqueId được tính tự động từ các field của obj        
 
 VQuestion tương ứng sẽ chỉ thay đổi khi uniqueId này thay đổi.
  
